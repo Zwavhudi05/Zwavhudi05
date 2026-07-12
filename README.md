@@ -138,20 +138,7 @@ flowchart LR
 ![Oracle Cloud Architect](https://img.shields.io/badge/Oracle_Cloud_Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Azure Data Engineer](https://img.shields.io/badge/In_Progress-Azure_Data_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zwavhudi05&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zwavhudi05&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zwavhudi05&theme=tokyonight&hide_border=true"/>
-</p>
 
 ## 🏅 GitHub Trophies
 
