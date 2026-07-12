@@ -140,11 +140,6 @@ flowchart LR
 
 
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zwavhudi05&theme=tokyonight&column=4"/>
-</p>
 
 ## 📈 Activity Graph
 
@@ -154,11 +149,6 @@ flowchart LR
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zwavhudi05&theme=tokyonight)
 
-
-### ⌛ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 🐍 Contribution Snake
 
