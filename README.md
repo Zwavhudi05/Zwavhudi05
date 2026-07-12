@@ -167,14 +167,6 @@ flowchart LR
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zwavhudi05&theme=tokyonight)
 
-## 📊 WakaTime Coding Metrics
-
-<!--
-  To enable this section:
-  1. Create a free account at https://wakatime.com
-  2. Connect it to your code editor via the WakaTime extension
-  3. Add a GitHub Action (search "waka-readme") to auto-update the block below
--->
 
 ### ⌛ Weekly Development Breakdown
 
