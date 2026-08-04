@@ -136,7 +136,7 @@ flowchart LR
 ![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Oracle AI Database Associate](https://img.shields.io/badge/Oracle_AI_Database_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Oracle Cloud Architect](https://img.shields.io/badge/Oracle_Cloud_Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Azure Data Engineer](https://img.shields.io/badge/In_Progress-Azure_Data_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Fabric Data Engineer](https://img.shields.io/badge/In_Progress-Fabric_Data_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 
