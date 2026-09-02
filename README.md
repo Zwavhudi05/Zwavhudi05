@@ -4,7 +4,7 @@ I'm based in South Africa and currently looking for opportunities in **Data Engi
 
 I enjoy working with data from end to end — building databases and data pipelines, cleaning and transforming data, writing SQL for analysis, and turning raw datasets into useful insights.
 
-My main tools are **SQL, Python, PostgreSQL, Power BI, and Microsoft/Azure data technologies**.
+My main tools are **SQL, Python, PostgreSQL, Power BI, PySpark, Dbt and Cloud Platforms(AWS and Azure)**.
 
 ---
 
