@@ -122,8 +122,9 @@ flowchart LR
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Used |
+| Project | Description | Tech Stack |
 |---|---|---|
+| [**digital-banking-transaction-analytics**](https://github.com/Zwavhudi05/digital-banking-transaction-analytics) | End-to-end digital banking analytics project using 500,000 synthetic South African banking transactions, covering relational database design, SQL business analysis, data validation, and query performance optimization | PostgreSQL, SQL, Python |
 | [**etl-sales-pipeline**](https://github.com/Zwavhudi05/etl-sales-pipeline) | Modular Python ETL pipeline extracting, cleaning, and loading Superstore sales data into a SQLite warehouse, with automated logging and summary reports | Python, SQLite, ETL |
 | [**Healthcare-Claims-Utilisation-Analysis**](https://github.com/Zwavhudi05/Healthcare-Claims-Utilisation-Analysis) | End-to-end BI solution analysing simulated medical aid claims, membership, and utilisation data — modeling cost drivers and detecting over-utilisation anomalies | T-SQL, BI, Data Modeling |
 | [**statssa-crime-unemployment**](https://github.com/Zwavhudi05/statssa-crime-unemployment) | Analysis of South African crime and unemployment data across all nine provinces | Python, pandas, Seaborn, scikit-learn |
