@@ -74,7 +74,7 @@ I'm continuing to build projects that strengthen my understanding of how data mo
 - Google Data Analytics
 - Oracle AI Database Associate
 - Oracle Cloud Architect
-- Microsoft Fabric Data Engineer(DP-700)
+- Microsoft Fabric Data Engineer(DP-750)
 
 ---
 
