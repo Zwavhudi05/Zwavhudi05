@@ -1,22 +1,20 @@
 # Hi, I'm Zwavhudi Mudogwa
 
-I'm based in South Africa and currently looking for opportunities in **Data Engineering, Data Analytics, and SQL Development**.
+I'm a South Africa-based data professional currently focused on **Data Engineering**.
 
-I enjoy working with data from end to end — building databases and data pipelines, cleaning and transforming data, writing SQL for analysis, and turning raw datasets into useful insights.
+I enjoy working across the full data lifecycle — from raw data ingestion and database design to transformation, validation, modelling, pipelines, and analytics.
 
-My main tools are **SQL, Python, PostgreSQL, Power BI, PySpark, Dbt and Cloud Platforms(AWS and Azure)**.
+My current stack includes **SQL, Python, PostgreSQL, Microsoft Fabric, PySpark, Delta Lake, Azure, Power BI, and Git/GitHub**.
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Description | Tech |
 |---|---|---|
-| [**digital-banking-transaction-analytics**](https://github.com/Zwavhudi05/digital-banking-transaction-analytics) | Built a PostgreSQL banking analytics project using 500,000 synthetic South African transactions, including relational database design, SQL analysis, Python data generation, data validation, and query performance testing | PostgreSQL, SQL, Python |
-| [**etl-sales-pipeline**](https://github.com/Zwavhudi05/etl-sales-pipeline) | Built a modular ETL pipeline that extracts, cleans, and loads Superstore sales data into a SQLite warehouse, with logging and automated summary reports | Python, SQLite, ETL |
-| [**Healthcare-Claims-Utilisation-Analysis**](https://github.com/Zwavhudi05/Healthcare-Claims-Utilisation-Analysis) | Analysed simulated medical aid claims, membership, and utilisation data to investigate cost drivers and identify over-utilisation patterns | T-SQL, BI, Data Modeling |
-| [**statssa-crime-unemployment**](https://github.com/Zwavhudi05/statssa-crime-unemployment) | Analysed South African crime and unemployment data across all nine provinces | Python, pandas, scikit-learn |
-| [**epl-analytics**](https://github.com/Zwavhudi05/epl-analytics) | Analysed 1,140 EPL matches from 2020–2024, including team performance, goal distributions, seasonal trends, and shot patterns | Python, pandas, Matplotlib |
+| [**SA Insurance Claims Analytics Platform**](https://github.com/Zwavhudi05/sa-insurance-fabric-project) | End-to-end Microsoft Fabric data platform using Bronze, Silver and Gold architecture, PySpark transformations, Delta MERGE incremental loading, quarantine handling, orchestration, and a Fabric Warehouse star schema. | Microsoft Fabric, PySpark, Delta Lake, T-SQL |
+| [**Digital Banking Transaction Analytics**](https://github.com/Zwavhudi05/digital-banking-transaction-analytics) | PostgreSQL banking analytics project built around 500,000 synthetic South African transactions, including relational modelling, SQL analysis, Python data generation, validation, and query performance testing. | PostgreSQL, SQL, Python |
+| [**ETL Sales Pipeline**](https://github.com/Zwavhudi05/etl-sales-pipeline) | Modular ETL pipeline that extracts, cleans, transforms, and loads sales data into a SQLite warehouse with logging and automated summary reporting. | Python, SQLite, ETL |
 
 ---
 
@@ -26,77 +24,81 @@ My main tools are **SQL, Python, PostgreSQL, Power BI, PySpark, Dbt and Cloud Pl
 - SQL
 - Python
 
-**Databases**
-- PostgreSQL
-- SQL Server
-- SQLite
-
-**Data Engineering & Analytics**
+**Data Engineering**
 - ETL / ELT
+- PySpark
+- Delta Lake
+- Medallion Architecture
 - Data Cleaning & Transformation
-- Relational Data Modelling
 - Data Validation
-- Analytical SQL
-- Query Performance Analysis
-- Business Intelligence
+- Incremental Loading
+- Data Pipelines
+- Data Modelling
 
-**Tools & Platforms**
-- Power BI
+**Databases & Warehousing**
+- PostgreSQL
+- SQL Server / T-SQL
+- SQLite
+- Microsoft Fabric Warehouse
+
+**Cloud & Platforms**
 - Microsoft Fabric
 - Azure
+- AWS
+- Power BI
 - Git & GitHub
 - Visual Studio Code
 
 **Currently developing further experience with**
-- Apache Spark
 - dbt
 - Apache Airflow
 - Docker
 
 ---
 
-## What I've Been Building
+## What I'm Working On
 
-My recent work has focused on projects that go beyond analysing a prepared CSV file.
+My recent work has focused on building more complete data engineering projects rather than only analysing prepared datasets.
 
-For example, in my **Digital Banking Transaction Analytics** project, I built a relational PostgreSQL database and used Python to generate a synthetic South African banking environment containing 10,000 customers, more than 18,000 accounts, 295 merchants, and 500,000 transactions.
+In my latest Microsoft Fabric project, I built an insurance claims pipeline that moves customer, policy, and claims data through Bronze, Silver, and Gold layers before loading trusted analytical data into a Fabric Warehouse.
 
-I then loaded and validated the data, wrote business-focused SQL queries using joins, CTEs, conditional aggregation and window functions, and used `EXPLAIN ANALYZE` to investigate PostgreSQL query performance and index usage.
+The project includes PySpark-based validation, quarantine handling, referential integrity checks, Delta MERGE incremental processing, pipeline orchestration, and end-to-end validation.
 
-In my **ETL Sales Pipeline** project, I focused more specifically on the data pipeline process by extracting, cleaning, transforming, and loading sales data into a SQLite warehouse.
-
-I'm continuing to build projects that strengthen my understanding of how data moves from raw sources through transformation and storage to analysis and reporting.
+I'm continuing to build projects that strengthen my skills in cloud data engineering, distributed processing, SQL, and production-style pipeline design.
 
 ---
 
 ## Certifications
 
+- **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - Google Data Analytics
 - Oracle AI Database Associate
 - Oracle Cloud Architect
-- Microsoft Fabric Data Engineer(DP-750)
 
 ---
 
-## Career Interests
+## Career Focus
 
-I'm currently looking for opportunities in:
+I'm currently targeting **Data Engineering opportunities**, particularly roles involving:
 
-- **Data Engineering**
-- **Data Analytics**
-- **SQL Development**
+- SQL and Python
+- ETL / ELT pipelines
+- Data modelling
+- Cloud data platforms
+- Microsoft Fabric / Azure
+- PySpark and distributed processing
+- Warehousing and analytics
 
-I'm particularly interested in roles where I can work with SQL, Python, relational databases, data pipelines, ETL/ELT processes, data modelling, analytics, and cloud data platforms.
-
-I'm also open to junior and entry-level opportunities where I can contribute while continuing to develop my technical experience in a production environment.
+I'm open to junior and entry-level opportunities where I can contribute while continuing to grow in a production data environment.
 
 ---
 
-## Connect With Me
+## Connect
 
 **LinkedIn:** [linkedin.com/in/zwavhudi-mudogwa5](https://www.linkedin.com/in/zwavhudi-mudogwa5/)
 
-**Email:** mudogwa.zwavhu@gmail.com
+**Email:** [mudogwa.zwavhu@gmail.com](mailto:mudogwa.zwavhu@gmail.com)
 
 **GitHub:** [github.com/Zwavhudi05](https://github.com/Zwavhudi05)
 
